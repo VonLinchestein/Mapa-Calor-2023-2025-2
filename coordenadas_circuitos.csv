@@ -1,0 +1,84 @@
+codigo,circuito,localidad,lat,lon,precision
+1,Posadas,Posadas,-27.3671,-55.8961,alta
+8,Garupá Centro,Garupá,-27.4750,-55.8250,alta
+10,Apóstoles,Apóstoles,-27.9142,-55.7549,alta
+11,San José,San José,-27.7700,-55.7900,alta
+12,Azara,Azara,-28.0600,-55.6700,alta
+14,Santa Ana,Santa Ana,-27.3700,-55.5800,alta
+15,Candelaria,Candelaria,-27.4600,-55.7400,alta
+17,Cerro Corá,Cerro Corá,-27.5129,-55.6063,alta
+18,Bonpland,Bonpland,-27.4800,-55.4700,aprox
+19,Mártires,Mártires,-27.4300,-55.3700,aprox
+20,Loreto,Loreto,-27.3200,-55.5300,alta
+21,Leandro N. Alem,Leandro N. Alem,-27.6000,-55.3200,alta
+22,Olegario Víctor Andrade,Olegario Víctor Andrade,-27.5200,-55.3800,aprox
+23,Cerro Azul,Cerro Azul,-27.6333,-55.4833,aprox
+24,Arroyo del Medio,Arroyo del Medio,-27.5800,-55.2000,aprox
+25,Dos Arroyos,Dos Arroyos,-27.5500,-55.2800,aprox
+26,Gobernador López,Gobernador López,-27.4700,-55.2500,aprox
+27,Caá Yarí,Caá Yarí,-27.6200,-55.2200,aprox
+28,Almafuerte,Almafuerte,-27.5200,-55.1800,aprox
+29,Concepción de la Sierra,Concepción de la Sierra,-27.9800,-55.5200,alta
+31,Santa María,Santa María,-27.9200,-55.3800,aprox
+32,San Javier,San Javier,-27.8700,-55.1300,alta
+33,Itacaruaré,Itacaruaré,-27.8300,-55.2400,aprox
+34,Mojón Grande,Mojón Grande,-27.8000,-54.9300,aprox
+35,Florentino Ameghino,Florentino Ameghino,-27.7500,-55.0500,aprox
+35A,Puerto Rosario,Puerto Rosario,-27.8600,-55.0000,aprox
+36,San Ignacio,San Ignacio,-27.2583,-55.5361,alta
+37,Corpus Christi,Corpus Christi,-27.1295,-55.5110,alta
+38,Gobernador Roca,Gobernador Roca,-27.1833,-55.4667,aprox
+39,Santo Pipó,Santo Pipó,-27.1399,-55.4109,alta
+40,Hipólito Yrigoyen,Hipólito Yrigoyen,-27.1200,-55.3000,aprox
+41,General Urquiza,General Urquiza,-27.2000,-55.3800,aprox
+42,Colonia Polana,Colonia Polana,-27.0900,-55.2500,aprox
+43,Jardín América,Jardín América,-27.0436,-55.2267,alta
+44,Oberá,Oberá,-27.4870,-55.1199,alta
+45,General Alvear,General Alvear,-27.6200,-55.0200,aprox
+46,Colonia Alberdi,Colonia Alberdi,-27.3500,-54.9500,aprox
+47,Campo Viera,Campo Viera,-27.3700,-55.0200,aprox
+48,Campo Ramón,Campo Ramón,-27.4700,-54.9800,aprox
+49,Panambí,Panambí,-27.7200,-54.9200,aprox
+50,Los Helechos,Los Helechos,-27.4000,-55.0800,aprox
+51,Guaraní,Guaraní,-27.5800,-54.9500,aprox
+52,San Martín,San Martín,-27.5500,-55.0800,aprox
+53,Puerto Rico,Puerto Rico,-26.8000,-55.0200,alta
+54,Puerto Leoni,Puerto Leoni,-26.9700,-55.1200,aprox
+55,Capioví,Capioví,-26.9300,-55.0700,alta
+56,Ruiz de Montoya,Ruiz de Montoya,-26.9600,-55.0300,aprox
+57,Garuhapé,Garuhapé,-26.8500,-54.9700,aprox
+58,El Alcázar,El Alcázar,-26.7400,-54.8800,aprox
+59,Dos de Mayo,Dos de Mayo,-27.0500,-54.7000,aprox
+59A,San Vicente,San Vicente,-27.0333,-54.4833,alta
+60,Campo Grande,Campo Grande,-27.2000,-54.9500,aprox
+61,Aristóbulo del Valle,Aristóbulo del Valle,-27.1000,-54.9000,alta
+62,Alba Posse,Alba Posse,-27.5500,-54.6800,aprox
+63,25 de Mayo,25 de Mayo,-27.3700,-54.7500,aprox
+64,Colonia Aurora,Colonia Aurora,-27.4300,-54.5800,aprox
+64A,Colonia Alicia,Colonia Alicia,-27.3800,-54.6200,aprox
+64B,Colonia Aparecida,Colonia Aparecida,-27.4500,-54.5200,aprox
+65,Montecarlo,Montecarlo,-26.5667,-54.7667,alta
+66,Caraguatay,Caraguatay,-26.6200,-54.8300,aprox
+66A,Tarumá,Tarumá,-26.6000,-54.7300,aprox
+67,Puerto Piray,Puerto Piray,-26.4700,-54.7200,alta
+68,El Soberbio,El Soberbio,-27.2967,-54.2000,alta
+68B,Monteagudo,Monteagudo,-27.3600,-54.3000,aprox
+68C,Colonia La Flor,Colonia La Flor,-27.3200,-54.2800,aprox
+68D,Colonia Mandarina,Colonia Mandarina,-27.2800,-54.2800,aprox
+69,Eldorado,Eldorado,-26.4000,-54.6333,alta
+70,Eldorado Centro,Eldorado,-26.4000,-54.6333,alta
+71,9 de Julio,9 de Julio,-26.4300,-54.5000,aprox
+72,Santiago de Liniers,Santiago de Liniers,-26.2500,-54.4000,aprox
+73,Colonia Victoria,Colonia Victoria,-26.2300,-54.6500,aprox
+74,Colonia Delicia,Colonia Delicia,-26.2500,-54.5800,aprox
+75,San Pedro,San Pedro,-26.6200,-54.1200,alta
+75A,Colonia Paraíso,Colonia Paraíso,-26.7000,-54.2000,aprox
+76,Tobuna,Tobuna,-26.3500,-54.3500,aprox
+76A,Pozo Azul,Pozo Azul,-26.1500,-53.9500,aprox
+77,Puerto Esperanza,Puerto Esperanza,-26.0200,-54.6000,alta
+78,Colonia Wanda,Wanda,-25.9667,-54.5667,alta
+79,Libertad,Puerto Libertad,-25.9167,-54.6000,alta
+80,Puerto Iguazú,Puerto Iguazú,-25.6000,-54.5700,alta
+81,Bernardo de Irigoyen,Bernardo de Irigoyen,-26.2500,-53.6500,alta
+82,San Antonio,San Antonio,-26.0700,-53.7300,alta
+82A,Comandante Andresito,Comandante Andresito,-25.6800,-54.0500,alta
